@@ -1,2 +1,2 @@
 # Heart_Disease_Prediction
-Evaluation of multiple models for heart disease prediction
+Evaluating multiple models for detecting early-stage heart disease
